@@ -36,12 +36,9 @@ Automated Q&A dataset generation using LLMs
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dmeldrum6&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dmeldrum6&layout=compact&theme=dark&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dmeldrum6&theme=dark&hide_border=true)
-
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 </div>
 
 - 📧 **Email**: [dmeldrum6@gmail.com](mailto:dmeldrum6@gmail.com)
