@@ -3,6 +3,7 @@
 **AI & Cybersecurity Enthusiast | Engineer | Tool Builder**
 
 **Languages**
+
 C#          ████████████████████░ 90%
 
 JavaScript  ████████████████░░░░  80%
