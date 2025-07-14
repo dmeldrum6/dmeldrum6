@@ -1,4 +1,4 @@
-# Hi there, I'm David! 👋
+# Hi there, I'm David 👋
 
 **AI & Cybersecurity Enthusiast | Engineer | Tool Builder**
 
@@ -8,12 +8,6 @@ C#          ████████████████████░ 90%
 JavaScript  ████████████████░░░░  80%
 
 T-SQL       ███████████████░░░░░  75%
-
-**Focus Areas**
-- 🤖 **AI/ML**: LLM integration, dataset creation, prompt engineering
-- 🔒 **Cybersecurity**: Security analysis, threat detection, defensive tools
-- 🌐 **Web Development**: Serverless apps, responsive design, API integration
-- 📊 **Data**: SQL optimization, data visualization, analytics
 
 ## 🔥 Featured Projects
 
@@ -33,13 +27,13 @@ Automated Q&A dataset generation using LLMs
 - **Features**: Configurable prompts, progress tracking
 
 ## 
-<div align="center">
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![AI](https://img.shields.io/badge/AI-Enthusiast-blue?style=flat-square)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Focus-red?style=flat-square)
-</div>
+
 
 - 📧 **Email**: [dmeldrum6@gmail.com](mailto:dmeldrum6@gmail.com)
 
