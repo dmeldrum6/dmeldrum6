@@ -42,4 +42,3 @@ Automated Q&A dataset generation using LLMs
 
 - 📧 **Email**: [dmeldrum6@gmail.com](mailto:dmeldrum6@gmail.com)
 
-</div>
