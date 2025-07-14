@@ -1,15 +1,13 @@
 # Hi there, I'm David 👋
+## 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![AI](https://img.shields.io/badge/AI-Enthusiast-blue?style=flat-square)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Focus-red?style=flat-square)
 
-**AI & Cybersecurity Enthusiast | Engineer | Tool Builder**
-
-**Languages**
-
-C#          ████████████████████░ 90%
-
-JavaScript  ████████████████░░░░  80%
-
-T-SQL       ███████████████░░░░░  75%
-
+📧 **Email**: [dmeldrum6@gmail.com](mailto:dmeldrum6@gmail.com)
+ 
 ## 🔥 Featured Projects
 
 ### 🎯 [LLM-Prototyping](https://github.com/dmeldrum6/LLM-Prototyping)
@@ -27,14 +25,4 @@ Automated Q&A dataset generation using LLMs
 - **Tech**: JavaScript, Batch Processing
 - **Features**: Configurable prompts, progress tracking
 
-## 
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![AI](https://img.shields.io/badge/AI-Enthusiast-blue?style=flat-square)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Focus-red?style=flat-square)
-
-
-- 📧 **Email**: [dmeldrum6@gmail.com](mailto:dmeldrum6@gmail.com)
 
