@@ -3,7 +3,7 @@
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![AI](https://img.shields.io/badge/AI-Enthusiast-blue?style=for-the-badge)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Focus-red?style=flat-square)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Focus-red?style=for-the-badge)
 
 📧 **Email**: [dmeldrum6@gmail.com](mailto:dmeldrum6@gmail.com)
 
